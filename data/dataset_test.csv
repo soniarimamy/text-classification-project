@@ -1,0 +1,51 @@
+text,category
+"Produit vraiment exceptionnel je le recommande",positif
+"Service client déplorable et lent",negatif
+"Qualité irréprochable",positif
+"Déçu par la qualité",negatif
+"Je suis totalement satisfait",positif
+"Je ne suis pas satisfait du tout",negatif
+"Rapport qualité-prix imbattable",positif
+"Beaucoup trop cher",negatif
+"Livraison rapide et soignée",positif
+"Livraison très lente",negatif
+"Design magnifique et moderne",positif
+"Design vieillot",negatif
+"Fonctionne parfaitement",positif
+"Ne fonctionne pas correctement",negatif
+"Excellent service après-vente",positif
+"Service après-vente inexistant",negatif
+"Je suis ravi de mon achat",positif
+"Je regrette mon achat",negatif
+"Très bonne autonomie",positif
+"Autonomie décevante",negatif
+"Produit robuste et durable",positif
+"Produit fragile",negatif
+"Facile à prendre en main",positif
+"Très difficile d'utilisation",negatif
+"Je valide à 100%",positif
+"Je ne valide pas",negatif
+"Super expérience utilisateur",positif
+"Mauvaise expérience",negatif
+"Le produit est parfait",positif
+"Le produit est défectueux",negatif
+"Je suis bluffé par la qualité",positif
+"Je suis déçu par la qualité",negatif
+"À acheter sans hésiter",positif
+"À éviter à tout prix",negatif
+"Incroyable rapport qualité-prix",positif
+"Prix injustifié",negatif
+"Service client réactif",positif
+"Service client injoignable",negatif
+"Produit innovant et utile",positif
+"Produit inutile",negatif
+"Je recommande vivement",positif
+"Je déconseille fortement",negatif
+"Emballage parfait",positif
+"Emballage endommagé",negatif
+"Installation facile",positif
+"Installation compliquée",negatif
+"Performance au top",positif
+"Performance médiocre",negatif
+"Je suis aux anges",positif
+"Je suis très mécontent",negatif

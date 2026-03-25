@@ -1,0 +1,199 @@
+text,category
+"J'aime ce produit il est génial",positif
+"Service client déplorable",negatif
+"Très bonne qualité je recommande",positif
+"Je suis déçu par ce produit",negatif
+"Excellent rapport qualité prix",positif
+"À éviter absolument",negatif
+"Super expérience d'achat",positif
+"Ne correspond pas à la description",negatif
+"J'aime ce produit il est génial",positif
+"Service client déplorable",negatif
+"Très bonne qualité je recommande",positif
+"Je suis déçu par ce produit",negatif
+"Excellent rapport qualité prix",positif
+"À éviter absolument",negatif
+"Super expérience d'achat",positif
+"Ne correspond pas à la description",negatif
+"Produit exceptionnel je valide",positif
+"Vraiment pas content du tout",negatif
+"Parfait rien à redire",positif
+"Qualité médiocre déçu",negatif
+"Je recommande vivement",positif
+"Très mauvais rapport qualité prix",negatif
+"Top du top je suis ravi",positif
+"À fuir absolument",negatif
+"Incroyable ce produit",positif
+"Grosse déception",negatif
+"Meilleur achat de l'année",positif
+"Ne vaut pas son prix",negatif
+"Service après-vente impeccable",positif
+"Livraison catastrophique",negatif
+"Produit conforme à la description",positif
+"Manque de finition",negatif
+"Design magnifique",positif
+"Fragile et peu résistant",negatif
+"Fonctionnalités excellentes",positif
+"Bruit désagréable",negatif
+"Simple d'utilisation",positif
+"Instructions incompréhensibles",negatif
+"Matériaux de qualité",positif
+"Se casse facilement",negatif
+"Rapport qualité prix imbattable",positif
+"Trop cher pour ce que c'est",negatif
+"Service client réactif",positif
+"Délai de livraison trop long",negatif
+"Produit innovant",positif
+"Technologie obsolète",negatif
+"Emballage soigné",positif
+"Reçu en mauvais état",negatif
+"Très satisfait de mon achat",positif
+"Produit inutile",negatif
+"Facile à installer",positif
+"Application mobile buguée",negatif
+"Bon rapport qualité prix",positif
+"Manque de fonctionnalités",negatif
+"Savoureux et délicieux",positif
+"Goût désagréable",negatif
+"Texture parfaite",positif
+"Odeur chimique",negatif
+"Idéal pour les débutants",positif
+"Trop complexe",negatif
+"Compact et pratique",positif
+"Encombrant",negatif
+"Bonne autonomie",positif
+"Batterie faible",negatif
+"Résistant à l'eau",positif
+"Fuite d'eau détectée",negatif
+"Confortable à utiliser",positif
+"Douloureux",negatif
+"Efficace et rapide",positif
+"Lent et peu performant",negatif
+"Design épuré",positif
+"Style démodé",negatif
+"Multifonction",positif
+"Manque de polyvalence",negatif
+"Sécurisé",positif
+"Dangereux",negatif
+"Écologique",positif
+"Polluant",negatif
+"Silencieux",positif
+"Très bruyant",negatif
+"Léger et maniable",positif
+"Lourd à porter",negatif
+"Précis",positif
+"Imprécis",negatif
+"Durable",positif
+"S'abîme rapidement",negatif
+"Belle finition",positif
+"Finition médiocre",negatif
+"Ergonomique",positif
+"Mal conçu",negatif
+"Performance excellente",positif
+"Performance décevante",negatif
+"Interface intuitive",positif
+"Interface complexe",negatif
+"Mise à jour régulière",positif
+"Manque de mises à jour",negatif
+"Compatibilité parfaite",positif
+"Problèmes de compatibilité",negatif
+"Support technique efficace",positif
+"Support technique inexistant",negatif
+"Garantie étendue",positif
+"Garantie limitée",negatif
+"Prix attractif",positif
+"Prix excessif",negatif
+"Livraison rapide",positif
+"Retard de livraison",negatif
+"Service après-vente à l'écoute",positif
+"Service après-vente injoignable",negatif
+"Produit conforme aux attentes",positif
+"Produit décevant",negatif
+"Emballage écologique",positif
+"Surcharge d'emballage",negatif
+"Notice claire",positif
+"Notice incompréhensible",negatif
+"Site web pratique",positif
+"Site web lent",negatif
+"Application mobile fluide",positif
+"Application mobile qui plante",negatif
+"Satisfait à 100%",positif
+"Déçu à 100%",negatif
+"Je valide totalement",positif
+"Je ne valide pas du tout",negatif
+"Génial je suis conquis",positif
+"Médiocre je suis déçu",negatif
+"Extraordinaire",positif
+"Mauvais choix",negatif
+"Fabuleux",positif
+"Catastrophique",negatif
+"Remarquable",positif
+"Nul",negatif
+"Superbe",positif
+"Horrible",negatif
+"Magnifique",positif
+"Affreux",negatif
+"Parfait",positif
+"Imparfait",negatif
+"Exceptionnel",positif
+"Désastreux",negatif
+"Bravo",positif
+"Dommage",negatif
+"Félicitations",positif
+"Déception",negatif
+"Champion",positif
+"Nul à chier",negatif
+"Top niveau",positif
+"Zéro étoile",negatif
+"Coup de coeur",positif
+"Grosse erreur",negatif
+"Je suis bluffé",positif
+"Je suis furieux",negatif
+"À acheter les yeux fermés",positif
+"À ne surtout pas acheter",negatif
+"Le meilleur produit",positif
+"Le pire produit",negatif
+"Je kiffe",positif
+"Je déteste",negatif
+"Extra",positif
+"Naze",negatif
+"Génialissime",positif
+"Ridicule",negatif
+"Pépite",positif
+"Arnaque",negatif
+"Merci beaucoup",positif
+"Merci pour rien",negatif
+"Je suis aux anges",positif
+"Je suis en colère",negatif
+"Waouh",positif
+"Beurk",negatif
+"Parfait pour moi",positif
+"Pas du tout pour moi",negatif
+"Je le conseille",positif
+"Je le déconseille",negatif
+"Excellent service",positif
+"Service médiocre",negatif
+"Qualité supérieure",positif
+"Qualité inférieure",negatif
+"Un vrai bonheur",positif
+"Un vrai cauchemar",negatif
+"Je suis satisfait",positif
+"Je suis insatisfait",negatif
+"Produit haut de gamme",positif
+"Produit bas de gamme",negatif
+"Finition luxueuse",positif
+"Finition cheap",negatif
+"Technologie de pointe",positif
+"Technologie dépassée",negatif
+"Un sans faute",positif
+"Beaucoup d'erreurs",negatif
+"Je suis impressionné",positif
+"Je suis dégoûté",negatif
+"À recommander chaudement",positif
+"À déconseiller vivement",negatif
+"Meilleur rapport qualité-prix",positif
+"Mauvais rapport qualité-prix",negatif
+"Expérience utilisateur top",positif
+"Expérience utilisateur nulle",negatif
+"Je suis conquis",positif
+"Je suis repoussé",negatif
